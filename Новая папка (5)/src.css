@@ -1,0 +1,38 @@
+.swap{
+    box-shadow: none;
+}
+.swap-block{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    margin-bottom: 5.8%;
+}
+
+.header{
+    display: flex;
+    height: 50px;
+    align-items: center;
+}
+
+.discord{
+    margin-left: 15%;
+    position: absolute;
+    text-decoration: none;
+}
+
+.instagram{
+    position: fixed;
+    margin-left: 85%;
+}
+
+.name-head{
+    margin: 0 auto 0 auto;
+    font-size: 15px;
+}
+
+.navbar{
+    display:flex;
+    margin-bottom: 0%;
+}
